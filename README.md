@@ -6,9 +6,9 @@ and professional accounts."
 ```
 ---
 <br>
-<img src="./assets/Stills/about.png" alt="home page">
+<img src="src/assets/Stills/about.png" alt="home page">
 <br><br>
-<img src="./assets/Stills/project.png" alt="profile page">
+<img src="src/assets/Stills/project.png" alt="profile page">
 <br><br>
 
 ---
@@ -24,9 +24,9 @@ and professional accounts."
 --- 
 
 <br>
-<img src="./assets/Stills/skills.png" alt="skills page">
+<img src="src/assets/Stills/skills.png" alt="skills page">
 <br><br>
-<img src="./assets/Stills/contact.png" alt="contact page">
+<img src="src/assets/Stills/contact.png" alt="contact page">
 
 ---
 
