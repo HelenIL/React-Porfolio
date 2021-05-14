@@ -6,9 +6,9 @@ and professional accounts."
 ```
 ---
 <br>
-![Home Page](src/assets/Stills/about.png)
+<img src="./assets/Stills/about.png" alt="home page">
 <br><br>
-![Portfolio Page](src/assets/Stills/project.png)
+<img src="./assets/Stills/project.png" alt="profile page">
 <br><br>
 
 ---
@@ -21,12 +21,12 @@ and professional accounts."
 * HTML
 * CSS
 * Bootstrap
+--- 
+
 <br>
----
-<br>
-![Skills Page](src/assets/Stills/skills.png)
+<img src="./assets/Stills/skills.png" alt="skills page">
 <br><br>
-![Contact Page](src/assets/Stills/contact.png)
+<img src="./assets/Stills/contact.png" alt="contact page">
 
 ---
 
@@ -34,7 +34,7 @@ and professional accounts."
 
 View the GitHub page <a href="https://helenil.github.io/React-Porfolio/">HERE</a>
 
-<h2>OR</h2>
+or
 
 Clone the <a href="https://github.com/HelenIL/React-Porfolio">REPOSITORY</a> and run command 
 "npm install" followed by "npm start"
