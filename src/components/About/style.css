@@ -1,0 +1,14 @@
+.abtBox {
+    border: 2px solid black;
+    padding: 5%;
+    margin-top: 5%;
+    background-image: url('../../assets/PagesPics/gears.png');
+}
+
+
+.abt {
+    font-size: 30px;
+    color: rgb(59,39,71);
+    font-family: 'Anton', sans-serif;
+
+}

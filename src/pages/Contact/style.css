@@ -1,0 +1,73 @@
+#contact {
+    background-color: lavender;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: cover;
+}
+
+.cnt {
+    font-size: 50px;
+    text-align: center;
+}
+
+.cnT {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 5%;
+    margin-top: 5%;
+    background-image: url('../../assets/PagesPics/gears.png');
+}
+
+.email {
+    font-size: 18px;
+    color: rgb(87,74,104);
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+.resume {
+    font-size: 20px;
+    color: rgb(87,74,104);
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+.break {
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(87,74,104);
+}
+
+.phone {
+    font-size: 18px;
+    color: rgb(87,74,104);
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+.ic {
+    color: rgb(87,74,104);
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(87,74,104);
+}
+
+.link:hover {
+    color: rgb(195, 119, 224);
+}
+
+@media screen and (max-width: 796px) {
+
+    #contact {
+        width: 75%
+    }
+
+
+}
