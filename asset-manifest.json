@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d0ae0db8.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.a99acf6a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.a99acf6a.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0550c55f.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0550c55f.js.map",
+    "static/css/2.800be05e.chunk.css": "/React-Portfolio/static/css/2.800be05e.chunk.css",
+    "static/js/2.f9019ec9.chunk.js": "/React-Portfolio/static/js/2.f9019ec9.chunk.js",
+    "static/js/2.f9019ec9.chunk.js.map": "/React-Portfolio/static/js/2.f9019ec9.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/React-Portfolio/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.d0ae0db8.chunk.css.map": "/React-Portfolio/static/css/main.d0ae0db8.chunk.css.map",
+    "static/js/2.f9019ec9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f9019ec9.chunk.js.LICENSE.txt",
+    "static/media/TravelToday.f408796a.png": "/React-Portfolio/static/media/TravelToday.f408796a.png",
+    "static/media/em_db.f1de14e2.png": "/React-Portfolio/static/media/em_db.f1de14e2.png",
+    "static/media/empdir.69a2e39a.png": "/React-Portfolio/static/media/empdir.69a2e39a.png",
+    "static/media/futurama.8078f24b.png": "/React-Portfolio/static/media/futurama.8078f24b.png",
+    "static/media/style.css": "/React-Portfolio/static/media/gears.97631568.png",
+    "static/media/tech_blog.ea20d165.png": "/React-Portfolio/static/media/tech_blog.ea20d165.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0550c55f.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.f9019ec9.chunk.js",
+    "static/css/main.d0ae0db8.chunk.css",
+    "static/js/main.a99acf6a.chunk.js"
+  ]
+}
