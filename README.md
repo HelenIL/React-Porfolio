@@ -5,13 +5,6 @@ Featuring Home, Portfolio, Contact, and Skills pages with links to social
 and professional accounts."
 ```
 ---
-<br>
-![Home Page](src/assets/Stills/about.png)
-<br><br>
-![Portfolio Page](src/asstes/Stills/project.png)
-<br><br>
-
----
 
 ## Technologies Used
 
@@ -23,12 +16,6 @@ and professional accounts."
 * Bootstrap
 --- 
 
-<br>
-![Skills Page](src/assets/Stills/skills.png)
-<br><br>
-![Contact Page](src/asstes/Stills/contact.png)
-
----
 
 ## Deployment
 
