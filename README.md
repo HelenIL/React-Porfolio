@@ -39,6 +39,7 @@ or
 Clone the <a href="https://github.com/HelenIL/React-Porfolio">REPOSITORY</a> and run command 
 "npm install" followed by "npm start"
 to view the application locally.
+
 ---
 
 ## Contact
