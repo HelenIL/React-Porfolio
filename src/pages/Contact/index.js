@@ -66,7 +66,7 @@ function Contact() {
                     <div className="row">
                         <div className="col-sm-2"></div>
                         <div className="col-sm-2">
-                            <p className="ic"><a className="link" href="https://www.facebook.com/helenionelindberg"><i className="fab fa-facebook-square fa-4x"></i></a></p>
+                            <p><a className="link" href="https://www.facebook.com/helenionelindberg"><i className="fab fa-facebook-square fa-4x"></i></a></p>
                         </div>
                         <div className="col-sm-1">
                         <p className="break">  |  </p>

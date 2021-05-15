@@ -50,9 +50,7 @@
     text-align: center;
 }
 
-.ic {
-    color: rgb(87,74,104);
-}
+
 
 .link {
     text-decoration: none;
@@ -68,6 +66,18 @@
     #contact {
         width: 75%
     }
+.phone {
+    font-size: 15px;
+}
+.email {
+    font-size: 15px;
+}
 
+}
 
+@media screen and (max-width: 391px) {
+
+    #contact {
+        width: 60%;
+    }
 }

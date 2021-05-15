@@ -32,7 +32,7 @@ and professional accounts."
 
 ## Deployment
 
-View the GitHub page <a href="https://helenil.github.io/React-Porfolio/">HERE</a>
+View the GitHub page <a href="https://helenil.github.io/React-Portfolio/#/">HERE</a>
 
 or
 
