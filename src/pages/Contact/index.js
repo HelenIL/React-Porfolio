@@ -46,7 +46,7 @@ function Contact() {
                             <p className="break">  |  </p>
                         </div>
                         <div className="col-sm-2">
-                            <p className="resume"><a className="link text-wrap text-break resume"><i class="fas fa-file fa-2x"></i></a>   &nbsp;   : &nbsp; Resume</p>
+                            <p className="resume"><a className="link text-wrap text-break resume" href="https://docs.google.com/document/d/1R9vI0b1tnB7vDkLTUsIXhhFJYXguLA-KV6zLOVqTEKE/edit?usp=sharing"><i class="fas fa-file fa-2x"></i></a>   &nbsp;   : &nbsp; Resume</p>
                         </div>
                         <div className="col-sm-2"></div>
                     </div>
